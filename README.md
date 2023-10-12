@@ -4,6 +4,7 @@
     <div style="display: flex; align-items: center;">
         <h3 style="font-size: 2em;">:books: STACKS</h3>
     </div>
+    <hr/>
     <!-- <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
     <div style="display: flex; justify-content: flex-end;">
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
