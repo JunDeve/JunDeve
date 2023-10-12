@@ -23,10 +23,10 @@
     </div>
 </div>
     
-    other : <br>
-    <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-    <img src="https://img.shields.io/badge/premierepro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
-    <img src="https://img.shields.io/badge/aftereffects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
+other : <br>
+<img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+<img src="https://img.shields.io/badge/premierepro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
+<img src="https://img.shields.io/badge/aftereffects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
 
 [ start date: 2023/10/10 : ]<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunDeve)](https://github.com/anuraghazra/github-readme-stats)
