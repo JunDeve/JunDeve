@@ -56,7 +56,7 @@ A challenger who does his best to complete his work and is always thinking and i
 To be added
 <hr/>
 [ start date: 2023/10/10 : ]<br/>
-![JunDeve's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunDeve&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunDeve&layout=compact)
-
+[![JunDeve's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunDeve&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunDeve&layout=compact)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JunDeve)](https://github.com/anuraghazra/github-readme-stats)
 
