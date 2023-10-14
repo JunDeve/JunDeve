@@ -2,7 +2,7 @@
 
 <h3>:books: STACKS</h3>
 <hr/>
-<p>[ Proficient : ]</p><br/>
+[ Proficient : ]<br/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
@@ -17,11 +17,11 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     
-<p>[ Code is readable : ]</p><br/>
+[ Code is readable : ]<br/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<p>[ other : ]</p><br/>
+[ other : ]<br/>
 <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 <img src="https://img.shields.io/badge/premierepro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
 <img src="https://img.shields.io/badge/aftereffects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
@@ -32,11 +32,11 @@
 | Kyungil University | 2019-2024 |
 | Daejin High School | 2016-2018 |
 <h3>🧡 WORK EXPERIENCE</h3>
-<p>To be added</p>
+To be added
 <h3>💛 ABOUT</h3>
-<p>A challenger who does his best to complete his work and is always thinking and improving.</p>
+A challenger who does his best to complete his work and is always thinking and improving.
 <h3>💚 SNS</h3>
-<p>To be added</p>
+To be added
 <hr/>
 [ start date: 2023/10/10 : ]<br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunDeve)](https://github.com/anuraghazra/github-readme-stats)
