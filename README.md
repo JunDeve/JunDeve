@@ -18,11 +18,13 @@
         <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
         <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     </div>
+    <br/>
     <div style="flex: 1;"> 
         [ Code is readable : ]<br/>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     </div>
+    <br/>
     <div style="flex: 1;"> 
         [ other : ]<br/>
         <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
@@ -32,10 +34,20 @@
 </div>
 <hr/>
 <h3>❤️ EDUCATION</h3>
-| SCHOOL             | Date      |
-| ------------------ | --------- |
-| Kyungil University | 2019-2024 |
-| Daejin High School | 2016-2018 |
+<table>
+  <tr>
+    <th>SCHOOL</th>
+    <th>DATE</th>
+  </tr>
+  <tr>
+    <td>Kyungil University</td>
+    <td>2019-2024</td>
+  </tr>
+  <tr>
+    <td>Daejin High School</td>
+    <td>2016-2018</td>
+  </tr>
+</table>
 <h3>🧡 WORK EXPERIENCE</h3>
 To be added
 <h3>💛 ABOUT</h3>
@@ -44,4 +56,5 @@ A challenger who does his best to complete his work and is always thinking and i
 To be added
 <hr/>
 [ start date: 2023/10/10 : ]<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunDeve&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunDeve&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunDeve&layout=compact)
