@@ -21,7 +21,7 @@
     <br/>
     <div style="flex: 1;"> 
         [ Code is readable : ]<br/>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     </div>
     <br/>
@@ -54,7 +54,9 @@ To be added
 A challenger who does his best to complete his work and is always thinking and improving.
 <h3>💚 SNS</h3>
 To be added
+- Youtube:
+- Insta:
 <hr/>
-[ start date: 2023/10/10 : ]<br/>
+[ start date: 2023/10/10 : ] <br/>
 <!-- ![JunDeve's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunDeve&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunDeve&layout=compact) -->
