@@ -58,4 +58,5 @@ To be added
 - Insta:
 <hr/>
 [ start date: 2023/10/10 : ] <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunDeve&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunDeve&layout=compact)](https://github.com/JunDeve/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JunDeve&show_icons=true&theme=radical)
