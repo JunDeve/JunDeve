@@ -23,9 +23,9 @@
         <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     </div>
+    <br/>
     <div style="flex: 1;"> 
         [ Code is readable : ]<br/>
         <img src="https://img.shields.io/badge/AWS Amazon AWS-232F3E?style=for-the-badge&logo=androidstudio&logoColor=white">
