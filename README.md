@@ -19,23 +19,26 @@
     </div>
     <br/>
     <div style="flex: 1;"> 
+        [ Tried it : ]<br/>
+        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+        <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
+        <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+        <img src="https://img.shields.io/badge/Androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+    </div>
+    <br/>
+    <div style="flex: 1;"> 
         [ Code is readable : ]<br/>
-        <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-        <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     </div>
     <br/>
     <div style="flex: 1;"> 
-        [ Code is readable : ]<br/>
-        <img src="https://img.shields.io/badge/AWS Amazon AWS-232F3E?style=for-the-badge&logo=androidstudio&logoColor=white">
-        <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=androidstudio&logoColor=white">
-    </div>
-    <br/>
-    <div style="flex: 1;"> 
-        [ Tried it : ]<br/>
-        <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+        [ other than : ]<br/>
         <img src="https://img.shields.io/badge/premierepro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
+        <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
         <img src="https://img.shields.io/badge/aftereffects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
     </div>
 </div>
@@ -47,8 +50,30 @@
     <th>DATE</th>
   </tr>
   <tr>
+    <td>Military Service (Republic of Korea Navy)</td>
+    <td>May 2020 - January 2022</td>
+  </tr>
+  <tr>
+    <td colspan="2">- Enlisted soldier at the Navy Headquarters</td>
+  </tr>
+  <tr>
+    <td colspan="2">- Played a key role in information system management</td>
+  </tr>
+  <tr>
     <td>Kyungil University</td>
-    <td>2019-2024</td>
+    <td>2019-2022</td>
+  </tr>
+  <tr>
+    <td colspan="2">- Department of Geospatial Information Engineering (2019-Present)</td>
+  </tr>
+  <tr>
+    <td colspan="2">- Military Leave of Absence (2020-2022)</td>
+  </tr>
+  <tr>
+    <td colspan="2">- Department of Computer Engineering (Transferred in 2022)</td>
+  </tr>
+  <tr>
+    <td colspan="2">- Resumed studies after completing military service</td>
   </tr>
   <tr>
     <td>Daejin High School</td>
@@ -60,10 +85,10 @@ To be added
 <h3>💛 ABOUT</h3>
 A challenger who does his best to complete his work and is always thinking and improving.
 <h3>💚 SNS</h3>
-To be added
-- Youtube:
-- Insta:
-- GitHub:
+To be added<br/>
+- Insta:<br/>
+- Youtube:<br/>
+- GitHub: https://github.com/JunDeve/
 <h3>💙 To be added </h3>
 <hr/>
 [ start date: 2023/10/10 : ] <br/>
