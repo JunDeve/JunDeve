@@ -89,6 +89,8 @@ To be added<br/>
 - Insta:<br/>
 - Youtube:<br/>
 - GitHub: https://github.com/JunDeve/
+- Notion:<br/>
+- Slack:
 <h3>💙 To be added </h3>
 <hr/>
 [ start date: 2023/10/10 : ] <br/>
