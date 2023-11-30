@@ -81,17 +81,17 @@
   </tr>
 </table>
 <h3>🧡 WORK EXPERIENCE</h3>
-To be added
+To be added :)
 <h3>💛 ABOUT</h3>
 A challenger who does his best to complete his work and is always thinking and improving.
 <h3>💚 SNS</h3>
-To be added<br/>
+To be added :)<br/>
 - Insta:<br/>
 - Youtube:<br/>
 - GitHub: https://github.com/JunDeve/<br/>
 - Notion:<br/>
 - Slack:
-<h3>💙 To be added </h3>
+<h3>💙 To be added :) </h3>
 <hr/>
 [ start date: 2023/10/10 : ] <br/>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunDeve&layout=compact)](https://github.com/JunDeve/github-readme-stats)
