@@ -88,7 +88,7 @@ A challenger who does his best to complete his work and is always thinking and i
 To be added<br/>
 - Insta:<br/>
 - Youtube:<br/>
-- GitHub: https://github.com/JunDeve/
+- GitHub: https://github.com/JunDeve/<br/>
 - Notion:<br/>
 - Slack:
 <h3>💙 To be added </h3>
