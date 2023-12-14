@@ -85,7 +85,7 @@ To be added :)..
 <h3>💛 ABOUT</h3>
 A challenger who does his best to complete his work and is always thinking and improving.
 <h3>💚 SNS</h3>
-To be added :).<br/>
+To be added :)<br/>
 - Insta:<br/>
 - Youtube:<br/>
 - GitHub: https://github.com/JunDeve/<br/>
