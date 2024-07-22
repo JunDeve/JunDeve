@@ -89,7 +89,7 @@ To be added :)<br/>
 - Insta:<br/>
 - Youtube:<br/>
 - GitHub: https://github.com/JunDeve/<br/>
-- Notion: https://www.notion.so/Main-c06044c033c84593b2c45602993890c5?pvs=4<br/>
+- Notion: https://flame-show-204.notion.site/Main-c06044c033c84593b2c45602993890c5?pvs=4<br/>
 - Slack:<br/>
 <h3>💙 To be added :) </h3>
 <hr/>
