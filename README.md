@@ -22,11 +22,15 @@
     <br/>
     <div style="flex: 1;"> 
         [ Tried it : ]<br/>
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-        <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
         <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
         <img src="https://img.shields.io/badge/Androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+        <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
+        <img src="https://img.shields.io/badge/PHP,ASP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+        
     </div>
     <br/>
     <div style="flex: 1;"> 
@@ -34,7 +38,8 @@
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+        <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     </div>
     <br/>
     <div style="flex: 1;"> 
@@ -63,19 +68,19 @@
   </tr>
   <tr>
     <td>Kyungil University</td>
-    <td>2019-2022</td>
+    <td>2019-2025</td>
   </tr>
   <tr>
-    <td colspan="2">- Department of Geospatial Information Engineering (2019-Present)</td>
+    <td colspan="2">- Department of Geospatial Information Engineering (2019-2020)</td>
   </tr>
   <tr>
     <td colspan="2">- Military Leave of Absence (2020-2022)</td>
   </tr>
   <tr>
-    <td colspan="2">- Department of Computer Engineering (Transferred in 2022)</td>
+    <td colspan="2">- Resumed studies after completing military service</td>
   </tr>
   <tr>
-    <td colspan="2">- Resumed studies after completing military service</td>
+    <td colspan="2">- Department of Computer Engineering (Transferred in 2022)</td>
   </tr>
   <tr>
     <td>Daejin High School</td>
@@ -83,18 +88,17 @@
   </tr>
 </table>
 <h3>🧡 WORK EXPERIENCE</h3>
-To be added :).......................
+Could you please guide me as I start my journey as a backend developer? :)
 <h3>💛 ABOUT</h3>
 A challenger who does his best to complete his work and is always thinking and improving.
 <h3>💚 SNS</h3>
-To be added :)<br/>
-- Insta:<br/>
-- Youtube:<br/>
 - GitHub: https://github.com/JunDeve/<br/>
 - Notion: https://flame-show-204.notion.site/Main-c06044c033c84593b2c45602993890c5?pvs=4<br/>
-- Slack:<br/>
-<h3>💙 To be added :) </h3>
+- Slack: Temporary deactivation<br/>
+- Discord: Temporary deactivation<br/>
+<h3>💙 Contact</h3>
+email: lupus3608jk@gmail.com
+
 <hr/>
 [ start date: 2023/10/10 : ] <br/>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunDeve&layout=compact)](https://github.com/JunDeve/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JunDeve&show_icons=true&theme=radical) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunDeve&layout=compact)](https://github.com/JunDeve/github-readme-stats)
