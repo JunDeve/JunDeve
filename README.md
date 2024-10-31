@@ -100,4 +100,4 @@ email: lupus3608jk@gmail.com
 
 <hr/>
 [ start date: 2023/10/10 : ] <br/>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunDeve&layout=compact)](https://github.com/JunDeve/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunDeve&layout=compact)](https://github.com/JunDeve/JunDeve/edit/main/README.md)
