@@ -30,7 +30,6 @@
         <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
         <img src="https://img.shields.io/badge/PHP,ASP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
         <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-        
     </div>
     <br/>
     <div style="flex: 1;"> 
@@ -101,4 +100,4 @@ email: lupus3608jk@gmail.com
 
 <hr/>
 [ start date: 2023/10/10 : ] <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunDeve&layout=compact)](https://github.com/JunDeve/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunDeve&layout=compact)](https://github.com/JunDeve/github-readme-stats) -->
