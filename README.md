@@ -96,7 +96,8 @@ A challenger who does his best to complete his work and is always thinking and i
 - Slack: Temporary deactivation<br/>
 - Discord: Temporary deactivation<br/>
 <h3>💙 Contact</h3>
-email: lupus3608jk@gmail.com
+Email: lupus3608jk@gmail.com<br/>
 <hr/>
-[ start date: 2023/10/10 : ] <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunDeve&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunDeve&layout=compact)<br/>
+[ start date: 2023/10/10 ]
