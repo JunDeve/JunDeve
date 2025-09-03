@@ -94,7 +94,7 @@
 <h3>🧡 경력</h3>
 백엔드 개발자로서의 새로운 여정을 시작하려 합니다 :)
 <h3>💛 자기소개</h3>
-맡은 일에 최선을 다하며, 항상 생각하고 발전하는 도전자입니다.
+안녕하십니까, 최고의 결과를 이끌어 낼 멀티플레이어 개발자 김준입니다.
 <h3>💚 SNS</h3>
 - GitHub: https://github.com/JunDeve/<br/>
 - Notion: https://flame-show-204.notion.site/Main-c06044c033c84593b2c45602993890c5?pvs=4<br/>
