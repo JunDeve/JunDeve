@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/openapiinitiative-6AA264?style=flat-square&logo=openapiinitiative&logoColor=white"/>
   <img src="https://img.shields.io/badge/restfulapi-45A2F1?style=flat-square&logo=odata&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
