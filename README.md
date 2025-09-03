@@ -1,100 +1,106 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=JunDeve&fontSize=40&desc=&fontAlign=85&fontAlignY=35)
-<h3>:books: STACKS</h3>
+<h3>:books: 기술스택</h3>
 <hr/>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <div style="flex: 1;">
-        [ Proficient : ]<br/>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-        <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-        <img src="https://img.shields.io/badge/nodedotjs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-        <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-        <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-    </div>
-    <br/>
-    <div style="flex: 1;"> 
-        [ Tried it : ]<br/>
-        <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-        <img src="https://img.shields.io/badge/Androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-        <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
-        <img src="https://img.shields.io/badge/PHP,ASP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-    </div>
-    <br/>
-    <div style="flex: 1;"> 
-        [ Code is readable : ]<br/>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
-    </div>
-    <br/>
-    <div style="flex: 1;"> 
-        [ other than : ]<br/>
-        <img src="https://img.shields.io/badge/premierepro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
-        <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-        <img src="https://img.shields.io/badge/aftereffects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
-    </div>
+
+### 능숙하게 다루는 기술
+
+<div align="left">
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/openapiinitiative-6AA264?style=flat-square&logo=openapiinitiative&logoColor=white"/>
+  <img src="https://img.shields.io/badge/graphql-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/googlecloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+</div>
+
+### 사용 경험이 있는 기술
+
+<div align="left">
+  <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/asp.net-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/reactnative-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/awslambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/azurefunctions-0078D4?style=flat-square&logo=azurefunctions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</div>
+
+### 코드 읽기가 가능한 기술
+
+<div align="left">
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
 </div>
 <hr/>
-<h3>❤️ EDUCATION</h3>
+<h3>❤️ 학력</h3>
 <table>
-  <tr>
-    <th>SCHOOL</th>
-    <th>DATE</th>
-  </tr>
-  <tr>
-    <td>Military Service (Republic of Korea Navy)</td>
-    <td>May 2020 - January 2022</td>
-  </tr>
-  <tr>
-    <td colspan="2">- Enlisted soldier at the Navy Headquarters</td>
-  </tr>
-  <tr>
-    <td colspan="2">- Played a key role in information system management</td>
-  </tr>
-  <tr>
-    <td>Kyungil University</td>
-    <td>2019-2025</td>
-  </tr>
-  <tr>
-    <td colspan="2">- Department of Geospatial Information Engineering (2019-2020)</td>
-  </tr>
-  <tr>
-    <td colspan="2">- Military Leave of Absence (2020-2022)</td>
-  </tr>
-  <tr>
-    <td colspan="2">- Resumed studies after completing military service</td>
-  </tr>
-  <tr>
-    <td colspan="2">- Department of Computer Engineering (Transferred in 2022)</td>
-  </tr>
-  <tr>
-    <td>Daejin High School</td>
-    <td>2016-2018</td>
-  </tr>
+  <tr>
+    <th>학교</th>
+    <th>기간</th>
+  </tr>
+  <tr>
+    <td>대한민국 해군 병역 의무 이행</td>
+    <td>2020년 5월 - 2022년 1월</td>
+  </tr>
+  <tr>
+    <td colspan="2">- 해군 본부 병사 근무</td>
+  </tr>
+  <tr>
+    <td colspan="2">- 정보체계 관리 업무 담당</td>
+  </tr>
+  <tr>
+    <td>경일대학교</td>
+    <td>2019년 - 2025년</td>
+  </tr>
+  <tr>
+    <td colspan="2">- 공간정보공학과 (2019-2020)</td>
+  </tr>
+  <tr>
+    <td colspan="2">- 군휴학 (2020-2022)</td>
+  </tr>
+  <tr>
+    <td colspan="2">- 복학 후 학업 재개</td>
+  </tr>
+  <tr>
+    <td colspan="2">- 컴퓨터공학과 (2022년 전과)</td>
+  </tr>
+  <tr>
+    <td>대진고등학교</td>
+    <td>2016년 - 2018년</td>
+  </tr>
 </table>
-<h3>🧡 WORK EXPERIENCE</h3>
-Could you please guide me as I start my journey as a backend developer? :)
-<h3>💛 ABOUT</h3>
-A challenger who does his best to complete his work and is always thinking and improving.
+<h3>🧡 경력</h3>
+백엔드 개발자로서의 새로운 여정을 시작하려 합니다 :)
+<h3>💛 자기소개</h3>
+맡은 일에 최선을 다하며, 항상 생각하고 발전하는 도전자입니다.
 <h3>💚 SNS</h3>
 - GitHub: https://github.com/JunDeve/<br/>
 - Notion: https://flame-show-204.notion.site/Main-c06044c033c84593b2c45602993890c5?pvs=4<br/>
-- Slack: Temporary deactivation<br/>
-- Discord: Temporary deactivation<br/>
-<h3>💙 Contact</h3>
+- Slack: 일시적 비활성화<br/>
+- Discord: 일시적 비활성화<br/>
+<h3>💙 연락처</h3>
 Email: lupus3608jk@gmail.com<br/>
 <hr/>
 
