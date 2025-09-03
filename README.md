@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/openapiinitiative-6AA264?style=flat-square&logo=openapiinitiative&logoColor=white"/>
+  <img src="https://img.shields.io/badge/restfulapi-45A2F1?style=flat-square&logo=odata&logoColor=white"/>
   <img src="https://img.shields.io/badge/graphql-E10098?style=flat-square&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/googlecloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
