@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 130" width="480" height="130" fill="none" role="img" aria-label="Hi, I'm Jun. A developer based in Korea. Not much here on GitHub.">
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="42%" r="78%">
+      <stop offset="0%" stop-color="#160f28"/>
+      <stop offset="55%" stop-color="#0a0a14"/>
+      <stop offset="100%" stop-color="#060509"/>
+    </radialGradient>
+
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#b98bff"/>
+      <stop offset="45%" stop-color="#8b5cff"/>
+      <stop offset="100%" stop-color="#4f86ff"/>
+    </linearGradient>
+
+    <!-- colored neon halo -->
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.2" result="a"/>
+      <feGaussianBlur stdDeviation="5.5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="a"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- soft bloom for white core -->
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="0.7" result="s"/>
+      <feMerge>
+        <feMergeNode in="s"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- typing reveal masks (char-by-char) -->
+    <clipPath id="rev0"><rect class="r r0" x="40" y="38" width="0" height="52"/></clipPath>
+    <clipPath id="rev1"><rect class="r r1" x="40" y="38" width="0" height="52"/></clipPath>
+    <clipPath id="rev2"><rect class="r r2" x="40" y="38" width="0" height="52"/></clipPath>
+
+    <style>
+      .txt{
+        font-family:'Fira Code','JetBrains Mono','Cascadia Code',ui-monospace,Consolas,monospace;
+        font-size:22px; font-weight:600; letter-spacing:.5px;
+      }
+      .glow{ fill:url(#neon); }
+      .core{ fill:#ffffff; }
+      .caret{ fill:#ffffff; }
+
+      .l0{ animation:show0 9s infinite; }
+      .l1{ animation:show1 9s infinite; }
+      .l2{ animation:show2 9s infinite; }
+      .r0{ animation:type0 9s steps(12) infinite; }
+      .r1{ animation:type1 9s steps(27) infinite; }
+      .r2{ animation:type2 9s steps(24) infinite; }
+      .caret{ animation:blink 1s steps(1) infinite; }
+
+      .ambient{ animation:pulse 4.5s ease-in-out infinite; }
+
+      @keyframes show0{0%,33.2%{opacity:1}33.4%,100%{opacity:0}}
+      @keyframes show1{0%,33.4%{opacity:0}33.6%,66.5%{opacity:1}66.7%,100%{opacity:0}}
+      @keyframes show2{0%,66.7%{opacity:0}66.9%,99.8%{opacity:1}100%{opacity:0}}
+
+      @keyframes type0{0%{width:0}14%{width:165px}33.2%{width:165px}33.4%{width:0}100%{width:0}}
+      @keyframes type1{0%,33.4%{width:0}48%{width:366px}66.5%{width:366px}66.7%{width:0}100%{width:0}}
+      @keyframes type2{0%,66.7%{width:0}81%{width:326px}99.8%{width:326px}100%{width:0}}
+
+      @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+      @keyframes pulse{0%,100%{opacity:.4}50%{opacity:.8}}
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect x="6" y="6" width="468" height="118" rx="16" fill="url(#bgGrad)"/>
+
+  <!-- ambient neon haze -->
+  <g class="ambient" filter="url(#glow)">
+    <ellipse cx="150" cy="64" rx="120" ry="34" fill="#8b5cff" opacity="0.16"/>
+    <ellipse cx="340" cy="70" rx="130" ry="30" fill="#4f86ff" opacity="0.14"/>
+  </g>
+
+  <!-- line 0 -->
+  <g class="l0" clip-path="url(#rev0)" text-anchor="start">
+    <text class="txt glow" x="40" y="73" filter="url(#glow)">Hi, I'm Jun<tspan class="caret">_</tspan></text>
+    <text class="txt core" x="40" y="73" filter="url(#soft)">Hi, I'm Jun<tspan class="caret">_</tspan></text>
+  </g>
+  <!-- line 1 -->
+  <g class="l1" clip-path="url(#rev1)" text-anchor="start">
+    <text class="txt glow" x="40" y="73" filter="url(#glow)">A developer based in Korea<tspan class="caret">_</tspan></text>
+    <text class="txt core" x="40" y="73" filter="url(#soft)">A developer based in Korea<tspan class="caret">_</tspan></text>
+  </g>
+  <!-- line 2 -->
+  <g class="l2" clip-path="url(#rev2)" text-anchor="start">
+    <text class="txt glow" x="40" y="73" filter="url(#glow)">Not much here on GitHub<tspan class="caret">_</tspan></text>
+    <text class="txt core" x="40" y="73" filter="url(#soft)">Not much here on GitHub<tspan class="caret">_</tspan></text>
+  </g>
+</svg>
