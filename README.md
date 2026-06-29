@@ -1,19 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=140&section=header)
-
 <div align="center">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=900&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hello.+_" alt="greeting" />
+<table>
+<tr>
+<td align="center" width="540">
 
 <br>
-
-Not much to see here.
-
 <br>
 
-If you're looking for something, it's probably at
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=460&lines=Hi%2C+I'm+Jun.+__;A+developer+based+in+Korea.+__;Not+much+here+on+GitHub.+__" alt="greeting" />
 
+<br>
+<br>
+
+If you're curious about what I do,
+
+feel free to stop by.
+
+<br>
 <br>
 
 **[jundeve.com](http://jundeve.com/)**
@@ -21,6 +26,10 @@ If you're looking for something, it's probably at
 <br>
 <br>
 
-</div>
+</td>
+</tr>
+</table>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:0d1117&height=140&section=footer)
+<br>
+
+</div>
